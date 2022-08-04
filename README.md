@@ -7,7 +7,12 @@ ___
 
 - [x] Git Basics
 - [x] Linux CLI, and HTTP
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [x] VCS (hello gitty), GitHub and Collaboration
+
+### Front-End Basics
+
+- [ ] Intro to HTML & CSS
+- [ ] Responsive Web Design
 ___
 
 ## Git Basics та Анатолій
@@ -28,5 +33,26 @@ ___
 ![Quiz](https://github.com/ASTkach/kottans-frontend/blob/main/task_linux_cli/Quiz_2.jpg)
 ![Quiz](https://github.com/ASTkach/kottans-frontend/blob/main/task_linux_cli/Quiz_3.jpg)
 ![Quiz](https://github.com/ASTkach/kottans-frontend/blob/main/task_linux_cli/Quiz_4.jpg)
+
+</details>
+
+
+## Git Collaboration
+
+Продовжуючи знайомство з **Git**, я почерпнув додаткову корисноу інформацію стосовно роботи з віддаленими репозиторіями. Навіть вже 
+використав ***force push***, під уважним доглядом ментора звичайно )) Тепер краще розумію які проблеми він може створювати у невмілих руках. Взагалі вже 
+почав використовувати **Git** для роботи зі своїм віддаленим репозиторієм, так що майбутнє вже трошки настало )
+
+Більш поглиблене знайомство з веб-сервісом **GitHub**, відкрило для мене нові функціональні можливості ресурсу, такі як **Code review** та інструмент
+**Issues**. Звичайно цікаво буде зануритися у процес перевірки чужого коду, коли отримаю для цього необхідний досвід. Напевно, з існуючим багажем
+знань, можна спробувати потренеруватися лише на потенційних коттанах ) Ну і цікаво було дізнатися про методологію **CICD** та ту користь яку вона несе 	
+при розробці програмного забезпечення. 
+
+<details>
+  
+  <summary>Screenshots</summary>
+  
+![Git_Branching_test](https://github.com/ASTkach/kottans-frontend/blob/main/task_git_collaboration/Git_Branching_1.jpg)
+![Git_Branching_test](https://github.com/ASTkach/kottans-frontend/blob/main/task_git_collaboration/Git_Branching.jpg)
 
 </details>
