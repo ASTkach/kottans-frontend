@@ -49,7 +49,7 @@ ___
   <summary>Screenshots</summary>
   
 ![Git_Branching_test](https://github.com/ASTkach/kottans-frontend/blob/main/task_git_collaboration/Git_Branching_1.jpg)
-![Git_Branching_test](https://github.com/ASTkach/kottans-frontend/blob/main/task_git_collaboration/Git_Branching.jpg)
+![Git_Branching_test](https://github.com/ASTkach/kottans-frontend/blob/main/task_git_collaboration/Git_Branching_2.jpg)
 
 </details>
 
