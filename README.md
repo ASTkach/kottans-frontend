@@ -15,7 +15,8 @@
 -   [x] Intro to HTML & CSS
 -   [x] Responsive Web Design
 -   [x] HTML & CSS Practice
--   [ ] JavaScript Basics
+-   [x] JavaScript Basics
+-   [ ] Document Object Model
 
 ---
 
@@ -91,3 +92,17 @@
 
 [Popup](https://astkach.github.io/hooli-style-popup/) |
 [Code base](https://github.com/ASTkach/hooli-style-popup)
+
+## JS Basics
+
+З **JS** я був знайомий достатньо поверхнево. Трошки знався на типах даних та операторах, вмів адаптував чужий код під власні потреби. Тому майже вся інформація, яку я отримав, була для мене новою. Здивувало звичайно те, з яким об'ємним матеріалом довелося зіштовхнутися. Зрозуміло, що це надважлива тема і якщо не зрозуміти основ, то наступні кроки приведуть прямо у безодню невизначеності )) На жаль мені не вдалося осягнути всю інформацію повною мірою, але я продовжую і буду продовжувати з нею працювати, щоб у майбутньому знайти з **JS** спільну мову. Дуже цікаво було маніпулювати ***масивами***, використовуючи різноманітні ***методи***, але скажу чесно, інколи вони доводили мене до сказу. Зрозумів, що ***функії*** спрощують життя, якщо з ними затоваришувати, а ключовим словом для змінної буде ***let***, а не ***var***, що б там не казав пан Яков зі свого 2015-го року )) Я планую постійно повертатися до практичних вправ з ***freecodecamp***, щоб вдосконалювати своє розуміння фізики процесу. Можна було б додати ще багато чого, але я пішов працювати.
+
+<details>
+  
+  <summary>Screenshots</summary>
+  
+![JS Basics](https://github.com/ASTkach/kottans-frontend/blob/main/task_js_basics/JS_1.jpg)
+![JS Basics](https://github.com/ASTkach/kottans-frontend/blob/main/task_js_basics/JS_2.jpg)
+![JS Basics](https://github.com/ASTkach/kottans-frontend/blob/main/task_js_basics/JS_3.jpg)
+
+</details>
